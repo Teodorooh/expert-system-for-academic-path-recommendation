@@ -18,11 +18,11 @@ A Prolog expert system to help technology students choose a specialization path.
    * pergunta_b(ID, Texto, TrilhaAlta(Y), TrilhaBaixa(X)).
 
 * Pontuação:  
-   1 ⇒ +2 para X (TrilhaBaixa)  
-   2 ⇒ +1 para X  
-   3 ⇒ 0  
-   4 ⇒ +1 para Y (TrilhaAlta)  
-   5 ⇒ +2 para Y  
+  * 1 ⇒ +2 para X (TrilhaBaixa)  
+  * 2 ⇒ +1 para X  
+  * 3 ⇒ 0  
+  * 4 ⇒ +1 para Y (TrilhaAlta)  
+  * 5 ⇒ +2 para Y  
 
 🎯 Trilhas suportadas
 
