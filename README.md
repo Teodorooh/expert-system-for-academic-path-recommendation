@@ -4,8 +4,8 @@ A Prolog expert system to help technology students choose a specialization path.
 
 📌 O que este projeto faz
 
-• Faz 10 perguntas ao usuário (4 unipolares + 6 bipolares).
-• Converte respostas 1..5 em pontos por trilha.
+• Faz 10 perguntas ao usuário (4 unipolares + 6 bipolares).  
+• Converte respostas 1..5 em pontos por trilha.  
 • Monta um ranking e exibe justificativas (quais perguntas pontuaram).
 
 🧠 Padrão das perguntas
